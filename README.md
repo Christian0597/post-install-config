@@ -35,7 +35,7 @@ This tutorial details the post-installation configuration of the-source help des
 <p>
  - Agents and managers can be assigned to one or more departments via the Admin Panel's Agents tab. 
   
-- These departments, which can be either private or, are used to route tickets in the help desk system. To configure departments, navigate to the Admin Panel's Agents tab.
+- These departments are used to route tickets in the help desk system. To configure departments, navigate to the Admin Panel's Agents tab.
 <br />
 
 <p>
