@@ -83,4 +83,4 @@ This tutorial details the post-installation configuration of the-source help des
 
 <h2>osTicket Configurations are Complete </h2>
 
-With the configurations now in place, I can effectively utilize osTicket as a proper ticketing. I am able create tickets and triage them as if were operating in a real environment.
+With the configurations now in place, I can effectively utilize osTicket as a proper ticketing system. I am able create tickets and triage them as if operating in a real environment.
