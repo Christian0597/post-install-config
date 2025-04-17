@@ -30,7 +30,8 @@ This tutorial details the post-installation configuration of the-source help des
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DUtnTz4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GOmfWsO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
  - Agents and managers can be assigned to one or more departments via the Admin Panel's Agents tab. 
@@ -39,7 +40,7 @@ This tutorial details the post-installation configuration of the-source help des
 <br />
 
 <p>
-<img src="https://i.imgur.com/hO1Q5VO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IIzrlxy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - To enable agents to respond to efficiently and tickets, they granted access to the help desk and can be assigned to various departments. When adding an agent, a primary department can be designated for them, along with a primary role the tickets and tasks routed to that department.
@@ -49,12 +50,12 @@ This tutorial details the post-installation configuration of the-source help des
 <br />
 
 <p>
-<img src="https://i.imgur.com/HuvBaIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KcYRjSc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/LGLVOU7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LIj4W1L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - Within the Agents tab of the Admin Panel, you have the ability to assign agents and managers various departments. These departments are utilized to route tickets within the help desk system and can be designated either private or public.
@@ -66,7 +67,7 @@ This tutorial details the post-installation configuration of the-source help des
 <br />
 
 <p>
-<img src="https://i.imgur.com/Up9l6Wg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BrukGHM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - A Service Level Agreement (SLA) is a contract between a service provider and its customers that specifies the expected level of service from the provider. It includes such as the types of services offered, the performance standards for services, and the consequences of failing to meet those standards. 
