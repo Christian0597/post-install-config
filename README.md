@@ -6,8 +6,6 @@
 This tutorial details the post-installation configuration of the-source help desk ticketing system, osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
 
 <h2>Environments and Technologies Used</h2>
 
